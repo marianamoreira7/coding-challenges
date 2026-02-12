@@ -6,6 +6,7 @@ out/
 ### Inside Files ###
 src/serversId/Base.md
 src/max_consecutive_on/Base.md
+src/newId/Base.md
 
 ### Eclipse ###
 .apt_generated
